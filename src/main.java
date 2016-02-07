@@ -6,7 +6,7 @@ import Chaper_2.Quick;
 public class main {
     public static void main(String[] args)
     {
-        Quick.sort();
+        //Quick.sort();
     }
 
 }
